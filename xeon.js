@@ -1,3 +1,3 @@
 {
-	"name": "Fuirly Botz Multi Device "
+	"name": "Fuirly Bot Multi Device "
 }
